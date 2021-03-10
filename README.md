@@ -1,15 +1,14 @@
-### Hi I am Atharva ✌
+### Hi there 👋, my name is Atharva Wadkar
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/athxxxx)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/athxxxx)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/atharvawadkar_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/AtharvaWadkar)  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... project
-- 🌱 I’m currently learning ...django cms 
-- 👯 I’m looking to collaborate on ... ML
-- 🤔 I’m looking for help with ...My yt videos
-- 💬 Ask me about ... MY passion
-- 📫 How to reach me: ...atharvawadkar646@gmail.com
-
-- ⚡ Fun fact: ... I am funny 
 
