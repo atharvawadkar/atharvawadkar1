@@ -1,8 +1,19 @@
-# Hi there 👋, my name is Atharva Wadkar
-
-
+### Hi there 👋, Hi my name is Atharva Wadkar
+#### I am a CSE Student
 Experienced Campus Ambassador with a demonstrated history of working in the non-profit organization management industry. Skilled in Sales, Engineering, Laptops, English, and Brand Ambassadorship. Strong education professional graduated from Savitribai Phule Pune University.
 *Disclaimer:-I never showcase unlettered things, just too make my profile catchy*
+
+Skills: Python ,C++,C,HTML,Django,
+
+- 🔭 I’m currently working on CHATBOT 
+- 🌱 I’m currently learning Django cms 
+- 👯 I’m looking to collaborate on YT videos 
+- 🤔 I’m looking for help with ML 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/athxxxx)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/athxxxx)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/atharvawadkar_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/AtharvaWadkar)  
+
+
 
 
 
@@ -15,17 +26,6 @@ Experienced Campus Ambassador with a demonstrated history of working in the non-
 
 
 
-
-Here are some ideas to get you started:
-
- 🔭 I<!--m currently working on ...> ChatBot
-- 🌱 I’m currently learning ... Django
-- 👯 I’m looking to collaborate on ... YT videos
-
-## 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/athxxxx)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/athxxxx)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/atharvawadkar_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/AtharvaWadkar)  
 
 
 ### GITHUB STAT's
