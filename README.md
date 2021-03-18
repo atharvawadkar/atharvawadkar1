@@ -2,6 +2,8 @@
 #### I am a CSE Student
 Experienced Campus Ambassador with a demonstrated history of working in the non-profit organization management industry. Skilled in Sales, Engineering, Laptops, English, and Brand Ambassadorship. Strong education professional graduated from Savitribai Phule Pune University.
 *Disclaimer:-I never showcase unlettered things, just too make my profile catchy*
+<img align="right" alt="Coding" width="400" src="00-imp--04animation_1.gif">
+
 
 Skills: Python ,C++,C,HTML,Django,
 
@@ -22,7 +24,6 @@ Skills: Python ,C++,C,HTML,Django,
 
 
 
-<img align="right" alt="Coding" width="400" src="00-imp--04animation_1.gif">
 
 
 
