@@ -1,11 +1,13 @@
 # Hi there 👋, my name is Atharva Wadkar
-## I am GitHub Readme Generator's creator
 
 
 <img align="right" alt="Coding" width="400" src="00-imp--04animation_1.gif">
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: VUE JS / REACT / JS / HTML / CSS
+🔭 Im currently working on ... chatbot
+🌱 I’m currently learning ... django
+
 
 
 
