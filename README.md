@@ -1,6 +1,9 @@
 # Hi there 👋, my name is Atharva Wadkar
 
 
+Experienced Campus Ambassador with a demonstrated history of working in the non-profit organization management industry. Skilled in Sales, Engineering, Laptops, English, and Brand Ambassadorship. Strong education professional graduated from Savitribai Phule Pune University.
+*Disclaimer:-I never showcase unlettered things, just too make my profile catchy*
+
 
 
 
