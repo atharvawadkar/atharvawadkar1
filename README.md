@@ -1,5 +1,5 @@
 ### Hi there 👋, Hi my name is Atharva Wadkar
-#### I am a CSE Student
+#### I am a Computer Science Student
 Experienced Campus Ambassador with a demonstrated history of working in the non-profit organization management industry. Skilled in Sales, Engineering, Laptops, English, and Brand Ambassadorship. 
 *Disclaimer:-I never showcase unlettered things, just too make my profile catchy*
 
