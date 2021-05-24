@@ -39,6 +39,6 @@ Experienced Campus Ambassador with a demonstrated history of working in the non-
 
 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=athxxxx&count_private=true&theme=nightowl&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=atharvawadkar&count_private=true&theme=nightowl&showicons=true)]()
 
 
