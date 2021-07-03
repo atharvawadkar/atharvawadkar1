@@ -1,5 +1,5 @@
 ### Hi there 👋,  My name is Atharva Wadkar
-<img align="right" alt="Coding"  width="1080" src="1080x360.jpg">
+<img align="right" alt="Coding"  width="1080" height="360" src="1080x360.jpg">
 #### I am a Computer Science Student
 Experienced Campus Ambassador with a demonstrated history of working in the non-profit organization management industry. Skilled in Sales, Engineering, Laptops, English, and Brand Ambassadorship. 
 *Disclaimer:-I never showcase unlettered things, just too make my profile catchy*
