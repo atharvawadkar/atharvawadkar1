@@ -1,5 +1,5 @@
 ### Hi there 👋,  My name is Atharva Wadkar
-<img src=https://twitter.com/AtharvaWadkar/header_photo alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+
 #### I am a Computer Science Student
 Experienced Campus Ambassador with a demonstrated history of working in the non-profit organization management industry. Skilled in Sales, Engineering, Laptops, English, and Brand Ambassadorship. 
 *Disclaimer:-I never showcase unlettered things, just too make my profile catchy*
